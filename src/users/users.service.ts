@@ -4,6 +4,7 @@ import { Injectable } from '@nestjs/common';
 export class UsersService {
 
 	getAll() {
+		console.log('--- users/all')
 		return 'im get-all method'
 	}
 }
