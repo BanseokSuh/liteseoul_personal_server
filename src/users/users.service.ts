@@ -5,6 +5,25 @@ export class UsersService {
 
 	getAll() {
 		console.log('--- users/all')
-		return 'im get-all method'
+		// 작업공간
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		return '이인원 붕산'
 	}
 }
